@@ -4,3 +4,4 @@ server.log
 server.err
 qa/deps/
 qa/pillow_site/
+qa/regenerate/
