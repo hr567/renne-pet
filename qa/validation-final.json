@@ -293,56 +293,56 @@
       "row": 5,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 15253
+      "nontransparent_pixels": 14276
     },
     {
       "state": "failed",
       "row": 5,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 16303
+      "nontransparent_pixels": 14131
     },
     {
       "state": "failed",
       "row": 5,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 14075
+      "nontransparent_pixels": 12292
     },
     {
       "state": "failed",
       "row": 5,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 11880
+      "nontransparent_pixels": 12139
     },
     {
       "state": "failed",
       "row": 5,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 12745
+      "nontransparent_pixels": 11366
     },
     {
       "state": "failed",
       "row": 5,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 11207
+      "nontransparent_pixels": 11423
     },
     {
       "state": "failed",
       "row": 5,
       "column": 6,
       "used": true,
-      "nontransparent_pixels": 12759
+      "nontransparent_pixels": 14460
     },
     {
       "state": "failed",
       "row": 5,
       "column": 7,
       "used": true,
-      "nontransparent_pixels": 15093
+      "nontransparent_pixels": 14376
     },
     {
       "state": "waiting",
