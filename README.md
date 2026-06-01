@@ -11,7 +11,9 @@ Renne is a Codex pet package with a static GitHub Pages preview.
 
 ## Preview
 
-Open `index.html` in a browser, or use the GitHub Pages URL after the repository is published.
+Preview Renne on GitHub Pages: <https://hr567.github.io/renne-pet/>
+
+You can also open `index.html` locally in a browser.
 
 The preview includes all packaged animation states:
 
