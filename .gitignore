@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+server.log
+server.err
+qa/deps/
+qa/pillow_site/
